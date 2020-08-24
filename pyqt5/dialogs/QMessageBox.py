@@ -26,7 +26,6 @@ class QMessageBoxDemo(QWidget):
 
     def initUI(self):
         self.setWindowTitle('QMessageBox案例')
-
         self.resize(300,400)
 
         layout=QVBoxLayout()
