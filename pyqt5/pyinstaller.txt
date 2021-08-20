@@ -1,0 +1,3 @@
+pyinstaller -Fw .py
+-w 不显示终端
+-F 将所有库打包到一个单独文件
